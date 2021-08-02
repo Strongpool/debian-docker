@@ -1,0 +1,2 @@
+ARG IMAGE_TAG
+FROM debian:${IMAGE_TAG}
